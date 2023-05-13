@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/47-projects-react-task03-image-finder-hooks/static/css/main.18bebba1.css",
+    "main.js": "/47-projects-react-task03-image-finder-hooks/static/js/main.e5e8678f.js",
+    "index.html": "/47-projects-react-task03-image-finder-hooks/index.html",
+    "static/media/iconSearch.svg": "/47-projects-react-task03-image-finder-hooks/static/media/iconSearch.552248cfe3bd3c3407f9.svg",
+    "main.18bebba1.css.map": "/47-projects-react-task03-image-finder-hooks/static/css/main.18bebba1.css.map",
+    "main.e5e8678f.js.map": "/47-projects-react-task03-image-finder-hooks/static/js/main.e5e8678f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18bebba1.css",
+    "static/js/main.e5e8678f.js"
+  ]
+}
